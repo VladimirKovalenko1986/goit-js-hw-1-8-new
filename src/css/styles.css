@@ -4,8 +4,7 @@
   | default @import url()
   |============================
 */
-@import url('./goit-js-hw-01.css');
-@import url('./goit-js-hw-02.css');
+/* @import url('./goit-js-hw-01.css'); */
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
@@ -28,4 +27,5 @@
   margin: 20px 0 0 20px;
   display: inline-block;
   width: 100px;
+  text-align: center;
 }
